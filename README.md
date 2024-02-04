@@ -7,7 +7,7 @@ Task 2: Comparison Operators
 
     a > b: true if a is greater than b.
 
-    a < b: true if a is less than b.
+    a < b: true if a is less than b. 
 
     a >= b: true if a is greater than or equal to b.
 
